@@ -1,0 +1,25 @@
+body {
+  background: #d1d1d1;
+}
+
+.nav-ul {
+  background: black;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  border: 1px solid gray;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: no-wrap;
+}
+
+.nav-li {
+  background: green;
+  border: 1px solid green;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+.a {
+  font-family: Snell Roundhand;
+}
